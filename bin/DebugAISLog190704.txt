@@ -1,0 +1,374 @@
+﻿7/4/2019 5:46:57 PM
+Execute
+Error Message : Public member 'CogsOcrCod' on type 'IDocument_Lines' not found.
+-----------------------------------------------------
+7/4/2019 5:49:13 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 5:49:26 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 5:49:29 PM
+AddInvoice success skey=>230, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 5:49:32 PM
+AddPayment success skey=>130, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 5:49:34 PM
+AddInvoice success skey=>231, docnum=>101000005
+-----------------------------------------------------
+7/4/2019 5:49:35 PM
+AddPayment success skey=>131, docnum=>101000005
+-----------------------------------------------------
+7/4/2019 5:49:36 PM
+AddInvoice success skey=>232, docnum=>101000006
+-----------------------------------------------------
+7/4/2019 5:49:37 PM
+AddPayment success skey=>132, docnum=>101000006
+-----------------------------------------------------
+7/4/2019 5:49:39 PM
+AddInvoice success skey=>233, docnum=>101000007
+-----------------------------------------------------
+7/4/2019 5:49:40 PM
+AddPayment success skey=>133, docnum=>101000007
+-----------------------------------------------------
+7/4/2019 5:49:41 PM
+AddInvoice success skey=>234, docnum=>101000009
+-----------------------------------------------------
+7/4/2019 5:49:50 PM
+AddPayment Error [Credit card code does not exist  [RCT3.CreditCard][line: 1]] skey=>134, docnum=>101000009
+-----------------------------------------------------
+7/4/2019 5:49:50 PM
+Execute
+Error Message : 
+-----------------------------------------------------
+7/4/2019 6:24:31 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 6:24:47 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 6:24:50 PM
+AddInvoice success skey=>230, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 6:24:50 PM
+UpdateInvoice
+Error Message : Column 'Status' does not belong to table Table.
+-----------------------------------------------------
+7/4/2019 6:24:53 PM
+AddPayment success skey=>130, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 6:24:55 PM
+AddInvoice success skey=>231, docnum=>101000005
+-----------------------------------------------------
+7/4/2019 6:24:55 PM
+UpdateInvoice
+Error Message : Column 'Status' does not belong to table Table.
+-----------------------------------------------------
+7/4/2019 6:24:57 PM
+AddPayment success skey=>131, docnum=>101000005
+-----------------------------------------------------
+7/4/2019 6:24:59 PM
+AddInvoice success skey=>232, docnum=>101000006
+-----------------------------------------------------
+7/4/2019 6:24:59 PM
+UpdateInvoice
+Error Message : Column 'Status' does not belong to table Table.
+-----------------------------------------------------
+7/4/2019 6:25:00 PM
+AddPayment success skey=>132, docnum=>101000006
+-----------------------------------------------------
+7/4/2019 6:25:02 PM
+AddInvoice success skey=>233, docnum=>101000007
+-----------------------------------------------------
+7/4/2019 6:25:02 PM
+UpdateInvoice
+Error Message : Column 'Status' does not belong to table Table.
+-----------------------------------------------------
+7/4/2019 6:25:03 PM
+AddPayment success skey=>133, docnum=>101000007
+-----------------------------------------------------
+7/4/2019 6:25:04 PM
+AddInvoice success skey=>234, docnum=>101000009
+-----------------------------------------------------
+7/4/2019 6:25:04 PM
+UpdateInvoice
+Error Message : Column 'Status' does not belong to table Table.
+-----------------------------------------------------
+7/4/2019 6:25:07 PM
+AddPayment Error [Credit card code does not exist  [RCT3.CreditCard][line: 1]] skey=>134, docnum=>101000009
+-----------------------------------------------------
+7/4/2019 6:25:07 PM
+Execute
+Error Message : 
+-----------------------------------------------------
+7/4/2019 6:30:11 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 6:30:23 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 6:30:36 PM
+AddInvoice Error [10001385 - Enter valid number; document number already exists] skey=>230, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 6:32:35 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 6:32:49 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 6:39:56 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 6:40:08 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 6:44:12 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 6:44:21 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 6:46:53 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 6:47:00 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 6:50:48 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 6:51:01 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 6:52:03 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 6:52:25 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 6:53:27 PM
+Execute
+Error Message : Object reference not set to an instance of an object.
+-----------------------------------------------------
+7/4/2019 6:54:00 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 6:54:08 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 6:56:44 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 6:56:50 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 6:56:56 PM
+AddInvoice Error [10001385 - Enter valid number; document number already exists] skey=>230, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 6:57:24 PM
+AddInvoice Error [10001385 - Enter valid number; document number already exists] skey=>231, docnum=>101000005
+-----------------------------------------------------
+7/4/2019 6:57:37 PM
+AddInvoice Error [10001385 - Enter valid number; document number already exists] skey=>232, docnum=>101000006
+-----------------------------------------------------
+7/4/2019 6:57:40 PM
+AddInvoice Error [10001385 - Enter valid number; document number already exists] skey=>233, docnum=>101000007
+-----------------------------------------------------
+7/4/2019 6:57:43 PM
+AddInvoice success skey=>234, docnum=>101000009
+-----------------------------------------------------
+7/4/2019 6:57:43 PM
+UpdateInvoice
+Error Message : The transaction is either not associated with the current connection or has been completed.
+-----------------------------------------------------
+7/4/2019 6:57:59 PM
+AddPayment Error [Credit card code does not exist  [RCT3.CreditCard][line: 1]] skey=>134, docnum=>101000009
+-----------------------------------------------------
+7/4/2019 6:58:14 PM
+Execute
+Error Message : 
+-----------------------------------------------------
+7/4/2019 7:03:01 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:03:14 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 7:03:49 PM
+AddInvoice success skey=>230, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 7:06:45 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:07:01 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 7:07:17 PM
+AddInvoice success skey=>230, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 7:09:09 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:09:15 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 7:09:20 PM
+AddInvoice success skey=>230, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 7:09:32 PM
+AddPayment success skey=>130, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 7:10:47 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:14:06 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:14:23 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 7:14:30 PM
+AddInvoice success skey=>230, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 7:14:52 PM
+AddPayment success skey=>130, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 7:18:07 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:18:28 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 7:18:35 PM
+AddInvoice success skey=>230, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 7:18:51 PM
+AddPayment success skey=>130, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 7:22:25 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:22:30 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 7:22:34 PM
+AddInvoice success skey=>230, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 7:22:37 PM
+AddPayment success skey=>130, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 7:22:49 PM
+AddInvoice success skey=>231, docnum=>101000005
+-----------------------------------------------------
+7/4/2019 7:22:52 PM
+AddPayment success skey=>131, docnum=>101000005
+-----------------------------------------------------
+7/4/2019 7:22:55 PM
+AddInvoice success skey=>232, docnum=>101000006
+-----------------------------------------------------
+7/4/2019 7:22:59 PM
+AddPayment success skey=>132, docnum=>101000006
+-----------------------------------------------------
+7/4/2019 7:23:01 PM
+AddInvoice success skey=>233, docnum=>101000007
+-----------------------------------------------------
+7/4/2019 7:23:03 PM
+AddPayment success skey=>133, docnum=>101000007
+-----------------------------------------------------
+7/4/2019 7:23:06 PM
+AddInvoice success skey=>234, docnum=>101000009
+-----------------------------------------------------
+7/4/2019 7:23:09 PM
+AddPayment Error [Credit card code does not exist  [RCT3.CreditCard][line: 1]] skey=>134, docnum=>101000009
+-----------------------------------------------------
+7/4/2019 7:23:09 PM
+Execute
+Error Message : 
+-----------------------------------------------------
+7/4/2019 7:27:24 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:27:39 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 7:27:46 PM
+AddInvoice success skey=>230, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 7:28:20 PM
+AddPayment success skey=>130, docnum=>101000004
+-----------------------------------------------------
+7/4/2019 7:29:21 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:29:49 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 7:29:56 PM
+AddInvoice success skey=>231, docnum=>101000005
+-----------------------------------------------------
+7/4/2019 7:30:15 PM
+AddPayment success skey=>131, docnum=>101000005
+-----------------------------------------------------
+7/4/2019 7:34:41 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:34:46 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 7:34:49 PM
+AddInvoice success skey=>232, docnum=>101000006
+-----------------------------------------------------
+7/4/2019 7:34:49 PM
+UpdateInvoice
+Error Message : ExecuteNonQuery requires the command to have a transaction when the connection assigned to the command is in a pending local transaction.  The Transaction property of the command has not been initialized.
+-----------------------------------------------------
+7/4/2019 7:34:55 PM
+AddPayment success skey=>132, docnum=>101000006
+-----------------------------------------------------
+7/4/2019 7:37:09 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:37:15 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 7:37:22 PM
+AddInvoice success skey=>233, docnum=>101000007
+-----------------------------------------------------
+7/4/2019 7:37:33 PM
+UpdateInvoice
+Error Message : ExecuteNonQuery requires the command to have a transaction when the connection assigned to the command is in a pending local transaction.  The Transaction property of the command has not been initialized.
+-----------------------------------------------------
+7/4/2019 7:37:44 PM
+AddPayment success skey=>133, docnum=>101000007
+-----------------------------------------------------
+7/4/2019 7:40:48 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:40:57 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 7:41:13 PM
+AddInvoice success skey=>234, docnum=>101000009
+-----------------------------------------------------
+7/4/2019 7:43:51 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:43:56 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 7:44:09 PM
+AddInvoice success skey=>235, docnum=>101000010
+-----------------------------------------------------
+7/4/2019 7:52:59 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/4/2019 7:53:10 PM
+AddInvoice Error [10001287 - Item cost not found for one or more items] skey=>229, docnum=>101000001
+-----------------------------------------------------
+7/4/2019 7:53:29 PM
+AddInvoice success skey=>236, docnum=>101000011
+-----------------------------------------------------
+7/4/2019 7:54:00 PM
+AddPayment success skey=>136, docnum=>101000011
+-----------------------------------------------------

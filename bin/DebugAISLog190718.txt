@@ -1,0 +1,135 @@
+﻿7/18/2019 9:32:14 AM
+Connect SAP B1[SAP_FANS_Production] Fail.
+Error Code : -4008
+Error Message : Login SLD Failed, make sure the server, company and user credential are correct
+-----------------------------------------------------
+7/18/2019 9:59:08 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/18/2019 10:01:15 AM
+InventoryTransferrequest success skey=>101000000000013, docnum=>101000000000013
+-----------------------------------------------------
+7/18/2019 10:01:29 AM
+Execute
+Error Message : Arithmetic operation resulted in an overflow.
+-----------------------------------------------------
+7/18/2019 10:02:37 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/18/2019 10:03:01 AM
+InventoryTransferrequest success skey=>101000000000013, docnum=>101000000000013
+-----------------------------------------------------
+7/18/2019 10:09:21 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/18/2019 10:09:37 AM
+InventoryTransferrequest success skey=>0, docnum=>101000000000013
+-----------------------------------------------------
+7/18/2019 10:09:59 AM
+InventoryTransferrequest success skey=>0, docnum=>102000000000013
+-----------------------------------------------------
+7/18/2019 10:10:05 AM
+InventoryTransferrequest success skey=>0, docnum=>103000000000014
+-----------------------------------------------------
+7/18/2019 10:10:17 AM
+InventoryTransferrequest success skey=>0, docnum=>105000000000013
+-----------------------------------------------------
+7/18/2019 10:10:42 AM
+InventoryTransferrequest success skey=>0, docnum=>106000000000013
+-----------------------------------------------------
+7/18/2019 10:10:59 AM
+InventoryTransferrequest success skey=>0, docnum=>108000000000014
+-----------------------------------------------------
+7/18/2019 10:11:06 AM
+InventoryTransferrequest success skey=>0, docnum=>109000000000013
+-----------------------------------------------------
+7/18/2019 10:11:16 AM
+InventoryTransferrequest success skey=>0, docnum=>111000000000001
+-----------------------------------------------------
+7/18/2019 10:11:25 AM
+InventoryTransferrequest success skey=>0, docnum=>111000000000002
+-----------------------------------------------------
+7/18/2019 10:11:33 AM
+InventoryTransferrequest success skey=>0, docnum=>112000000000001
+-----------------------------------------------------
+End
+-----------------------------------------------------
+7/18/2019 10:25:14 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+End
+-----------------------------------------------------
+7/18/2019 10:26:15 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+End
+-----------------------------------------------------
+7/18/2019 10:26:56 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/18/2019 10:28:15 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/18/2019 10:28:19 AM
+Execute
+Error Message : Index was outside the bounds of the array.
+-----------------------------------------------------
+7/18/2019 10:29:02 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/18/2019 10:32:15 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/18/2019 10:33:58 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/18/2019 10:34:29 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/18/2019 10:34:48 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/18/2019 4:03:21 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/18/2019 4:03:54 PM
+InventoryTransferrequest success skey=>0, docnum=>109000000000013
+-----------------------------------------------------
+7/18/2019 4:04:25 PM
+InventoryTransferrequest success skey=>0, docnum=>111000000000001
+-----------------------------------------------------
+7/18/2019 4:04:35 PM
+InventoryTransferrequest success skey=>0, docnum=>111000000000002
+-----------------------------------------------------
+7/18/2019 4:04:43 PM
+InventoryTransferrequest success skey=>0, docnum=>101000000000013
+-----------------------------------------------------
+7/18/2019 4:04:59 PM
+InventoryTransferrequest success skey=>0, docnum=>108000000000014
+-----------------------------------------------------
+7/18/2019 4:05:06 PM
+InventoryTransferrequest success skey=>0, docnum=>103000000000014
+-----------------------------------------------------
+7/18/2019 4:05:16 PM
+InventoryTransferrequest success skey=>0, docnum=>102000000000013
+-----------------------------------------------------
+7/18/2019 4:05:29 PM
+InventoryTransferrequest success skey=>0, docnum=>105000000000013
+-----------------------------------------------------
+7/18/2019 4:05:39 PM
+InventoryTransferrequest success skey=>0, docnum=>106000000000013
+-----------------------------------------------------
+7/18/2019 4:05:44 PM
+InventoryTransferrequest success skey=>0, docnum=>112000000000001
+-----------------------------------------------------
+End
+-----------------------------------------------------
+7/18/2019 6:23:05 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/18/2019 6:23:43 PM
+InventoryTransferrequest success skey=>0, docnum=>103000000000014
+-----------------------------------------------------
+7/18/2019 6:31:17 PM
+InventoryTransferrequest success skey=>0, docnum=>102000000000013
+-----------------------------------------------------

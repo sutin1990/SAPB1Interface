@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\Project2\SAPB1Interface\bin\Debug\SAPB1Interface.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project2\SAPB1Interface\bin\Debug\SAPB1Interface.InstallLog
+   assemblypath = D:\Project2\SAPB1Interface\bin\Debug\SAPB1Interface.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Project2\SAPB1Interface\bin\Debug\SAPB1Interface.exe assembly.
+Committing assembly 'D:\Project2\SAPB1Interface\bin\Debug\SAPB1Interface.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project2\SAPB1Interface\bin\Debug\SAPB1Interface.InstallLog
+   assemblypath = D:\Project2\SAPB1Interface\bin\Debug\SAPB1Interface.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Project2\SAPB1Interface\bin\Debug\SAPB1Interface.exe assembly.
+Remove InstallState file because there are no installers.

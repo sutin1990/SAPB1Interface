@@ -1,0 +1,17 @@
+﻿7/3/2019 10:29:22 AM
+Connect SAP B1[SAP_FANS_Production] Fail.
+Error Code : -4009
+Error Message : Failed to connect SLD, make sure SLD server is correct and available
+-----------------------------------------------------
+7/3/2019 11:14:44 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/3/2019 11:29:25 AM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/3/2019 12:19:51 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+7/3/2019 12:28:38 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------

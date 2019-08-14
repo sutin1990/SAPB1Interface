@@ -1,0 +1,39 @@
+﻿6/24/2019 4:36:00 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+6/24/2019 4:37:14 PM
+AddInvoice success.
+-----------------------------------------------------
+6/24/2019 4:37:27 PM
+AddPayment success.
+-----------------------------------------------------
+End
+-----------------------------------------------------
+6/24/2019 4:43:32 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+6/24/2019 5:40:51 PM
+Connect SAP B1[SAP_FANS_Production] Success.
+-----------------------------------------------------
+6/24/2019 5:41:25 PM
+Connect SAP B1[SAP_FANS_Test] Fail.
+Error Code : 100000048
+Error Message : No SAP licenses
+-----------------------------------------------------
+6/24/2019 5:41:32 PM
+Execute
+Error Message : You are not connected to a company
+-----------------------------------------------------
+6/24/2019 5:42:03 PM
+Connect SAP B1[SAP_FANS_Test] Fail.
+Error Code : 100000048
+Error Message : No SAP licenses
+-----------------------------------------------------
+6/24/2019 5:44:09 PM
+Connect SAP B1[SAP_FANS_Test] Success.
+-----------------------------------------------------
+6/24/2019 5:44:52 PM
+AddInvoice Error [Update the exchange rate].
+-----------------------------------------------------
+End
+-----------------------------------------------------
